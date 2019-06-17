@@ -1,8 +1,8 @@
 # shopping_list
 
-Pagina web mobile che virtualizza una lista della spesa.
+A web mobile page that virtualize a shopping list.
 
-Tecnologie utilizzate:
+Techs used:
 
 - HTML5;
 - CSS3;
@@ -10,6 +10,6 @@ Tecnologie utilizzate:
 - JS6 + JQuery 3.3.1;
 - MySQL.
 
-Per utilizzare questa "web app" è necessario crearsi una tabella nel proprio db con campi: id(int) e nome(varchar).
-Scrivendo nel campo di input e cliccando il bottone Plus(+) viene salvato nella lista (e nel db) il testo inserito.
-Cliccando il bottone Checked(v) viene eliminato dalla lista (e dal db) la riga a cui si riferisce il bottone.
+For using this "web app" you need to create a table in your own db with fields: id(int) and nome(varchar).
+Writing in the input and clicking the buttom Plus(+) the text will be saved in the list (and in the db).
+Clicking the buttom Checked(v) the text will be removed from the list (and from the db).
